@@ -1,0 +1,9 @@
+config.py
+geminiconfig.py
+geminitest.py
+openaitest.py
+practice.py
+venv/
+.venv/
+__pycache__/
+Openai/
