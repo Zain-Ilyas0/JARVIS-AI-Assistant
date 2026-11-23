@@ -93,7 +93,7 @@ if __name__ == '__main__':
         ["wikipedia", "https://wikipedia.com"],
         ["google", "https://google.com"],
     ]
-    musicPath = r"C:\Users\PMLS\Pictures\y2mate.com - Sadiq Hussain _ Jaanam Fida-e-Haideri _ 2018 _ Official HD Kalam_n8n_hkkhVCY.mp3"
+    musicPath = r"music_path"
 
     while True:
         print("Listening...")
